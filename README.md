@@ -1,2 +1,2 @@
-# C-_labyrinthgame
+# C++_labyrinthgame
 課題のlabylinthゲームについてのリポジトリです
